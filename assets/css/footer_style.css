@@ -102,12 +102,15 @@ hr {
     }
 
     .footer-contacts p {
-      color: rgba(255, 255, 255, 0.3);
+      color: #fff;
      }
 
     .footer-contacts a {
-      color: rgba(255, 255, 255, 0.3); 
+     color: #fff;
     }
+    .footer-contacts a :hover{
+      color: #000;
+     }
 
 
     .footer-contacts .list-unstyled li a {

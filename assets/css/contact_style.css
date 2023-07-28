@@ -7,9 +7,11 @@
 }
 
 
-.text a:hover {
-  color: #fff;
-}
+/* .text a:hover {
+  color: #000;
+} */
+
+
 
 .footer-contacts .con.con-1,.footer-contacts .con.con-2, .footer-contacts .con.con-3 {
   background: #1e1e1e;
@@ -157,4 +159,4 @@ hr{
     color: #2553b8; }
 
 
-  
+   
